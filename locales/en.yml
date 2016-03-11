@@ -1,0 +1,14 @@
+title: "Project"
+packages:
+  - default
+  - project
+
+parts:
+  - translation:
+      key: "txt.app.title"
+      title: "The title of something"
+      value: "This is not a title"
+  - translation:
+      key: "txt.app.description"
+      title: "The description for something"
+      value: "This is not a description"
