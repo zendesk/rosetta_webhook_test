@@ -12,3 +12,7 @@ parts:
       key: "txt.app.description"
       title: "The description for something"
       value: "This is not a description"
+  - translation:
+      key: "txt.app.long_description"
+      title: "The description for something"
+      value: "This is not a description"
